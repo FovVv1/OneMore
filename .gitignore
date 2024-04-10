@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.vs/ServerLoadMonitoring/FileContentIndex/55f197b7-1901-44d9-80ab-13dbbe311b8d.vsidx
